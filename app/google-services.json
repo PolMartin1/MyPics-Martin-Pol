@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "683225161598",
+    "firebase_url": "https://mypicsenunciat-bd307.firebaseio.com",
+    "project_id": "mypicsenunciat-bd307",
+    "storage_bucket": "mypicsenunciat-bd307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683225161598:android:98a6fbe6451c4cc7935d2f",
+        "android_client_info": {
+          "package_name": "com.dam.eva.mypicsenunciat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683225161598-f8uelt9vb3ivrrqkms5vq1to4h1ohppj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam.eva.mypicsenunciat",
+            "certificate_hash": "d6f7385a3f5bb05a7b7d79b0cf4f883d8b1de394"
+          }
+        },
+        {
+          "client_id": "683225161598-q6dlvljt3brikpt34g875fovu563fp0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam.eva.mypicsenunciat",
+            "certificate_hash": "5b866f183be0c5956138bb04caf34293025171a1"
+          }
+        },
+        {
+          "client_id": "683225161598-ie8v4ibrudof46mmdj5snrdouohqjqov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVeT5eaf3uL6SCqkyNHPRzsK_SFR_8ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683225161598-ie8v4ibrudof46mmdj5snrdouohqjqov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683225161598:android:a191769343ca91bd935d2f",
+        "android_client_info": {
+          "package_name": "com.pol.mypics_martin_pol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683225161598-inq9v1v2co1q6oalts9c57ee3enr5bq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pol.mypics_martin_pol",
+            "certificate_hash": "d6f7385a3f5bb05a7b7d79b0cf4f883d8b1de394"
+          }
+        },
+        {
+          "client_id": "683225161598-ie8v4ibrudof46mmdj5snrdouohqjqov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVeT5eaf3uL6SCqkyNHPRzsK_SFR_8ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683225161598-ie8v4ibrudof46mmdj5snrdouohqjqov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

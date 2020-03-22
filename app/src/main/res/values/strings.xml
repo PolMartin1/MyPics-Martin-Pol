@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Pics-Pol-Martin</string>
+    <string name="main_label_gallery">Galeria</string>
+    <string name="main_label_camera">Càmera</string>
+    <string name="main_label_upload">Pujar</string>
+    <string name="main_message_question_upload">Vol pujar aquesta imatge?</string>
+    <string name="main_message_upload_success">Imatge pujada correctament.</string>
+    <string name="main_message_done">Fet!</string>
+    <string name="main_message_upload_error">Error al pujar la imatge, intenti més tard</string>
+    <string name="main_message_delete_success">Imatge eliminada correctament.</string>
+    <string name="main_message_delete_error">Error en eliminar.</string>
+    <string name="main_message_error_notFound">La imatge no s\'ha pogut carregar, Afegir una?</string>
+    <string name="main_label_showuploads">Mostra uploads</string>
+</resources>
